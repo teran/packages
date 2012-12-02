@@ -13,7 +13,7 @@
 DAEMON=/usr/sbin/utserver
 NAME=utserver
 DESC=utserver
-DAEMON_OPTS='-configfile /etc/utorrent-server/utserver.conf -logfile /var/log/utorrent-server/utserver.log -settingspath /etc/utorrent-server -daemon -pidfile /var/run/utserver.pid'
+DAEMON_OPTS='-configfile /etc/utorrent-server/utorrent-server.conf -logfile /var/log/utorrent-server/utserver.log -settingspath /etc/utorrent-server -daemon -pidfile /var/run/utserver.pid'
 USER=utorrent
 GROUP=utorrent
 
