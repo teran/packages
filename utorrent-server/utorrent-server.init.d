@@ -10,7 +10,7 @@
 # Description:       starts instance of utorrent-server using start-stop-daemon
 ### END INIT INFO
 
-DAEMON=/usr/local/sbin/utserver
+DAEMON=/usr/sbin/utserver
 NAME=utserver
 DESC=utserver
 DAEMON_OPTS='-configfile /etc/utorrent-server/utserver.conf -logfile /var/log/utorrent-server/utserver.log -settingspath /etc/utorrent-server -daemon -pidfile /var/run/utserver.pid'
