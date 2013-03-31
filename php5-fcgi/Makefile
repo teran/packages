@@ -1,0 +1,5 @@
+test:
+	true
+
+install:
+	true

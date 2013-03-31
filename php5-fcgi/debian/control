@@ -1,0 +1,12 @@
+Source: php5-fcgi 
+Section: extra
+Priority: optional
+Maintainer: Igor Shishkin <pub@teran.ru>
+
+Package: php5-fcgi
+Section: extra
+Priority: optional
+Architecture: all
+Depends: php5-cgi, spawn-fcgi, psmisc
+Description: init script to run php-cgi as fcgi daemon
+ .

@@ -1,0 +1,29 @@
+php5-fcgi (0.1-5) stable; urgency=low
+
+  * childs amount changed to 8 
+
+ -- Igor Shishkin <pub@teran.ru>  Thu, 26 May 2011 14:42:18 +0000
+
+php5-fcgi (0.1-4) stable; urgency=low
+
+  * init-script fix 
+
+ -- Igor Shishkin <pub@teran.ru>  Thu, 26 May 2011 04:28:46 +0000
+
+php5-fcgi (0.1-3) stable; urgency=low
+
+  * deps fix: psmisc added
+
+ -- Igor Shishkin <pub@teran.ru>  Thu, 26 May 2011 04:23:56 +0000
+
+php5-fcgi (0.1-2) stable; urgency=low
+
+  * deps fix
+
+ -- Igor Shishkin <pub@teran.ru>  Thu, 26 May 2011 04:19:20 +0000
+
+php5-fcgi (0.1-1) stable; urgency=low
+
+  * Initial release. 
+
+ -- Igor Shishkin <pub@teran.ru>  Wed, 25 May 2011 20:13:14 +0000
