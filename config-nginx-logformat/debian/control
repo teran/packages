@@ -1,0 +1,12 @@
+Source: config-nginx-logformat
+Section: yandex
+Priority: optional
+Maintainer: Igor Shishkin <mail@teran.me>
+
+Package: config-nginx-logformat
+Section: yandex
+Priority: optional
+Architecture: all
+Depends: nginx (>= 1.0.4), nginx-common (>= 1.0.4)
+Description: config file provides realy awesome access log format for proxied requests
+ .

@@ -1,0 +1,5 @@
+config-nginx-logformat (0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Igor Shishkin <mail@teran.me>  Thu, 28 Mar 2013 16:58:43 +0400
