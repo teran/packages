@@ -2,6 +2,8 @@ Source: config-nginx-logformat
 Section: yandex
 Priority: optional
 Maintainer: Igor Shishkin <mail@teran.me>
+Vcs-Git: git://github.com/teran/packages.git
+Vcs-Browser: https://github.com/teran/packages
 
 Package: config-nginx-logformat
 Section: yandex

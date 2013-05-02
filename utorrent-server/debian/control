@@ -1,7 +1,9 @@
 Source: utorrent-server
 Section: extra
 Priority: optional
-Maintainer: Igor Shishkin <me@teran.ru>
+Maintainer: Igor Shishkin <mail@teran.me>
+Vcs-Git: git://github.com/teran/packages.git
+Vcs-Browser: https://github.com/teran/packages
 
 Package: utorrent-server
 Section: extra
